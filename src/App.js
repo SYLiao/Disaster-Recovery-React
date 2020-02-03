@@ -7,6 +7,8 @@ import AddUser from './components/addUser';
 function App() {
   return (
     <React.Fragment>
+    <Dashboard/>
+    <SignInSide/>
     <AddUser/>
     </React.Fragment>
   );
